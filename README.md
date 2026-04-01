@@ -20,7 +20,7 @@ A solução foi construída para analisar a variação de preços do GLP no Bras
 
 ##  Arquitetura do Projeto
 
-![Arquitetura](images/arquitetura.png)
+![Arquitetura](images/arquitetura.PNG)
 
 Fluxo de dados:
 
@@ -34,7 +34,7 @@ Fluxo de dados:
 
 ## 🔄 Pipeline de Dados
 
-![Pipeline](images/pipeline.png)
+![Pipeline](images/pipeline.PNG)
 
 O pipeline foi desenvolvido no Azure Data Factory com as seguintes etapas:
 
@@ -50,7 +50,7 @@ O pipeline foi desenvolvido no Azure Data Factory com as seguintes etapas:
 
 ## Transformações de Dados
 
-![DataFlow](images/dataflow.png)
+![DataFlow](images/dataflow.PNG)
 
 Principais transformações realizadas:
 
@@ -63,7 +63,7 @@ Principais transformações realizadas:
 
 ## 🗄️ Data Lake (Arquitetura em Camadas)
 
-![DataLake](images/datalake.png)
+![DataLake](images/datalake.PNG)
 
 Estrutura utilizada:
 
@@ -77,7 +77,7 @@ Essa abordagem garante organização, escalabilidade e governança dos dados.
 
 ## Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard.PNG)
 
 O dashboard foi desenvolvido no Power BI com foco em análise exploratória.
 
